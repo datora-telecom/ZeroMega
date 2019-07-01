@@ -1,6 +1,6 @@
 # Zero Mega
 
-Zero Mega is a project from [ThingsExpert](https://github.com/ThingsExpert/) implemented in partner with Microsoft. In this repository you can find all solutions and scripts related to the project.
+Zero Mega is a project from [Datora Telecom](https://github.com/datora-telecom/) implemented in partner with Microsoft. In this repository you can find all solutions and scripts related to the project.
 
 There are 3 folders:
 - **Bash Scripts:** Here are the scripts in charge to send data from Linux Servers to Azure Event Hub.
